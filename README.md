@@ -14,7 +14,7 @@ Read the game narratives and technical requirements carefully. Plan how you will
 
 ### Game Map
 
-![Game Map](escape-room-plan.jpg)
+![Game Map](https://github.com/mikongame/python-project/blob/master/images/escape-room-plan.jpg)
 
 ### Game Narratives
 
